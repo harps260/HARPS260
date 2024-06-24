@@ -1,16 +1,13 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL
 
-<!--
-**harps260/HARPS260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME E CAMILA HARPS
+- ESTOU ESTUDANDO ALURA
+- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT
+- UTILIZO ESSE ESPAÇO PARA MINHA ORGANIGAÇÃO E COMPARTILHAMENTO DO MEUS PROJETOS DESENVOLVIDOS
 
-Here are some ideas to get you started:
+### VOCÊ ENTRAR EM CONTATO COMIGo 📫
+camilaharps@gmail.com.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@caah harps
+
+![](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
